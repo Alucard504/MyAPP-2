@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\RPL-SMKN 4 BOGOR\\Pictures\\myapp\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\RPL-SMKN 4 BOGOR\\Pictures\\myapp\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\RPL-SMKN 4 BOGOR\\Pictures\\myapp\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\RPL-SMKN 4 BOGOR\\Pictures\\myapp\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\RPL-SMKN 4 BOGOR\\Pictures\\myapp\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\RPL-SMKN 4 BOGOR\\Pictures\\myapp\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "c:\\Users\\RPL-SMKN 4 BOGOR\\Pictures\\myapp\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\RPL-SMKN 4 BOGOR\\Pictures\\myapp\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\RPL-SMKN 4 BOGOR\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\RPL-SMKN 4 BOGOR\\Pictures\\myapp\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\RPL-SMKN 4 BOGOR\\Pictures\\myapp\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RPL-SMKN 4 BOGOR\\AppData\\Roaming\\NuGet\\NuGet.Config"
